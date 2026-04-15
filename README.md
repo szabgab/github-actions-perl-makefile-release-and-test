@@ -1,8 +1,7 @@
-# GitHub Workflow for Perl projects
+# Github Action  for perl using Makefile.PL creating release and testing it
 
 For Perl projects with Makefile.PL
 
-Running on native OSes.
 
 For the full list of examples and explanations visit https://git.code-maven.com/
 
